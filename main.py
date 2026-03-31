@@ -24,8 +24,7 @@ for i in range(1, len(lista)):
     if lista[i] < lista[i - 1]:
         queda_producao += 1
 
-print(producao_total)
-print(media)
-print(hora_mais_produtiva)
-print(hora_menos_produtiva)
-print(queda_producao)
+print(f"Produção total foi de: {producao_total}")
+print(f"A média da produção foi de: {media}")
+print(f"A hora mais produtiva foi: {hora_mais_produtiva}")
+print(f"A hora menos produtiva foi: {hora_menos_produtiva}")
