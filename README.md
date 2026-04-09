@@ -78,7 +78,7 @@ Salve o código em um arquivo, por exemplo: producao.py
 Execute no terminal:
 python producao.py
 
-# Grupo:
+# Grupo
 
 • João Pedro Rangel | Nº7
 
