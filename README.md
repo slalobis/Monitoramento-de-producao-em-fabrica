@@ -9,7 +9,7 @@ O programa executa as seguintes tarefas:
 Solicita ao usuário a produção de 16 horas consecutivas
 Armazena os dados em uma lista
 
-# Calcula:
+# Calcula
 
 • Produção total
 
