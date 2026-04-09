@@ -77,3 +77,13 @@ Identificação de extremos
 Salve o código em um arquivo, por exemplo: producao.py
 Execute no terminal:
 python producao.py
+
+# Grupo:
+
+• João Pedro Rangel | Nº7
+
+• Guilherme Silva Dranka | Nº5
+
+• Diego Luiz Bernal | Nº4
+
+• João Vitor Gomes Tatsch | Nº8
