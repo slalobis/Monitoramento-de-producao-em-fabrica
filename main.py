@@ -23,7 +23,8 @@ for i in range(len(lista)):       #Esse documenta a quantidade de queda da produ
     if lista[i] < valor_hora_menos_produtiva:
         valor_hora_menos_produtiva = lista[i]
         hora_menos_produtiva = i + 1
-    
+        
+for i in range(1, len(lista)):
     if lista[i] < lista[i - 1]:
         queda_producao += 1
         
