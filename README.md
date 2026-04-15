@@ -1,6 +1,6 @@
 # Análise de Produção por Hora
 
-Este projeto em Python realiza a coleta e análise de dados de produção ao longo de 16 horas, fornecendo métricas importantes como total produzido, média, maior e menor produção, além da quantidade de quedas ao longo do período.
+Este projeto em Python realiza a coleta e análise de dados de produção ao longo de 16 horas, fornecendo métricas importantes como horas decorridas, total produzido, média, maior e menor produção com sua hora, além da quantidade de quedas ao longo do período.
 
 # Funcionalidades
 
